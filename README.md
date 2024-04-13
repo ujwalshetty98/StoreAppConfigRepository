@@ -1,0 +1,2 @@
+# StoreAppConfigRepository
+configrepo
